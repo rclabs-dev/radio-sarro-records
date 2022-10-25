@@ -2,7 +2,7 @@
 
 exports.skill = {
   appId: '',
-  dynamoDBTableName: 'Audio-Player-Multi-Stream',
+  dynamoDBTableName: 'Radio-Sarro-Multi-Stream',
 };
 
 exports.audioData = [
