@@ -18,7 +18,8 @@
           "description": "",
           "smallIconUri": "https://cdn.iconscout.com/icon/free/png-128/find-in-page-1779442-1512899.png",
           "largeIconUri": "https://upload.wikimedia.org/wikipedia/en/5/52/Littledevil512.png"
-        },
+        }
+      },
       "isAvailableWorldwide": true,
       "testingInstructions": "Include your testing instruction (if any) here",
       "category": "STREAMING_SERVICE",
