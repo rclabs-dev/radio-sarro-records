@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "audio player",
+            "invocationName": "Rádio Sarro",
             "intents": [{
                     "name": "AMAZON.CancelIntent",
                     "slots": [],
