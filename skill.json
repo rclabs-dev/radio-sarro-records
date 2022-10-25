@@ -2,41 +2,23 @@
   "skillManifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
-          "summary": "Very basic podcast sample",
+        "pt-BR": {
+          "summary": "Rádio Sarro",
           "examplePhrases": [
-            "Alexa, open audio player",
-            "Alexa, ask audio player to begin podcast",
-            "Alexa, ask audio player to stop"
+            "Alexa, abrir Rádio Saro",
+            "Alexa, peça à Rádio Sarro iniciar o programa",
+            "Alexa, pela à Rádio Sarro para parar"
           ],
           "keywords": [
             "podcast",
             "streaming",
-            "example"
+            "webradio"
           ],
-          "name": "Multi Stream Audio Player",
+          "name": "Multiprogramação da Rádio Sarro",
           "description": "",
-          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
-          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+          "smallIconUri": "https://cdn.iconscout.com/icon/free/png-128/find-in-page-1779442-1512899.png",
+          "largeIconUri": "https://upload.wikimedia.org/wikipedia/en/5/52/Littledevil512.png"
         },
-        "en-GB": {
-          "summary": "Very basic podcast sample",
-          "examplePhrases": [
-            "Alexa, open audio player",
-            "Alexa, ask audio player to begin podcast",
-            "Alexa, ask audio player to stop"
-          ],
-          "keywords": [
-            "podcast",
-            "streaming",
-            "example"
-          ],
-          "name": "Multi Stream Audio Player",
-          "description": "",
-          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
-          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
-        }
-      },
       "isAvailableWorldwide": true,
       "testingInstructions": "Include your testing instruction (if any) here",
       "category": "STREAMING_SERVICE",
